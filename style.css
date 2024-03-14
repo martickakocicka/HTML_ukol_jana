@@ -20,6 +20,8 @@ tlačítko twitter          #1da1f2
   margin-left: 2%;
   margin-top: 3%;
   margin-right:0;
+  width: 30%;
+  box-shadow: 7px 7px 15px 5px #515559;
   }
 body {
   background-color: #bdc3c7;
@@ -29,17 +31,15 @@ body {
 
 .hlavicka {
   
-  margin-bottom: 0;
-  width: 30%;
+  margin-bottom: 0;  
   height: min-content;
   position: relative;
-  box-shadow: 7px 7px 15px 5px  #515559;  
+  background-color: #31363b;  
   }
 
 .foto {
   width: 100%;
-  margin-bottom: 0;
-  height: 20%;   
+  margin-bottom: 0; 
 }
 
 .logo {
@@ -57,15 +57,13 @@ body {
 }
 
 .obsah {
-  background-color: #31363b;
-  width: 30%;
+  background-color: #31363b; 
   margin-top:0;
   margin-bottom: 0;
   color: #bdc3c7;
   font-family: 'Source Sans 3';
   padding: 20px 40px 20px 40px;
-  font-size: 18px;
-  box-shadow: 7px 7px 15px 5px #515559;
+  font-size: 18px;  
 }
 
 .jmeno {
@@ -87,9 +85,7 @@ body {
   position: relative;  
   background-color: #31363b;
   padding:0;
-  margin:0;
-  width:30%;
-  box-shadow: 7px 7px 15px 5px #515559;
+  margin:0;  
 }
 
 .portfolio {
@@ -116,8 +112,7 @@ body {
   padding-bottom: 10px;
   text-align: center;
   border-top: 2px solid #3f464d;
-  border-right: 2px solid #3f464d;
-  
+  border-right: 2px solid #3f464d;  
 }
 
 .twitter {
@@ -126,6 +121,5 @@ body {
   padding-top: 10px;
   padding-bottom: 10px;
   text-align: center;
-  border-top: 2px solid #3f464d;
-  
+  border-top: 2px solid #3f464d;  
 }
